@@ -51,8 +51,3 @@ li.list-group-item.font-weight-bold {
     color: black;
    border: 2px solid black;
 }
-
-body{
-   background-size: cover;
-   /* background-image: linear-gradient(rgb(225, 0, 0,.4),rgb(225, 0, 0,.4)),url(https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXXGOPpGtATE/v0/-1x-1.jpg); */
-}
