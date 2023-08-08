@@ -1,0 +1,56 @@
+.shoppinglist{
+    margin-top: 40px;
+}
+.heroimg img{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 0;
+    margin-bottom: 120px;
+}
+.heroimg h1{
+    position: absolute;
+    margin-left: 129px;
+
+}
+.form-group.totoItemGoup.mb-0 {
+    justify-content: space-between;
+    width: 100%;
+}
+input#toDoitem {
+   width: 100%;
+}
+#Addbtn{
+    background-color: black;
+    color: white;
+    padding: 10px 25px;
+}
+#todolist .headding{
+    padding-top: 10px;
+
+}
+#todolist {
+    border-radius: 10px;
+}
+#todolist span i{
+    color: red;
+}
+body{
+    background-color: #e9ecef;
+}
+li.list-group-item.font-weight-bold {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer button.btn.btn-primary {
+    width: 100%;
+    background-color: white;
+    color: black;
+   border: 2px solid black;
+}
+
+body{
+   background-size: cover;
+   background-image: linear-gradient(rgb(225, 0, 0,.4),rgb(225, 0, 0,.4)),url(https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXXGOPpGtATE/v0/-1x-1.jpg);
+}
