@@ -11,6 +11,8 @@
 .heroimg h1{
     position: absolute;
     margin-left: 129px;
+    font-size: 35px;
+    color: gold;
 
 }
 .form-group.totoItemGoup.mb-0 {
